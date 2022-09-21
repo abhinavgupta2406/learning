@@ -1,19 +1,19 @@
 # Learning Topics and Sources
 
-## Kubernetes
+### Kubernetes
 
 * [EKS Workshop](https://www.eksworkshop.com/)
   * Free
   * Read and Implement
   * Need AWS account
 
-## React
+### React
 
 * [Learn React with Bob Ziroll](https://scrimba.com/learn/learnreact)
   * Free
   * Watch and Implement
 
-## Go
+### Go
 
 * [Go by Example](https://gobyexample.com/)
   * Free
