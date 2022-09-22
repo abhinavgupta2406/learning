@@ -14,7 +14,7 @@
   * Watch and Implement
   
 ### CSS
-* [CSS Tutorial - Zero to Hero (Complete Course)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+* [CSS Tutorial – Full Course for Beginners](https://www.youtube.com/watch?v=OXGznpKZ_sA)
   * Free
   * Watch and Implement
 
